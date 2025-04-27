@@ -17,7 +17,7 @@ git clone https://github.com/nivaldojunior037/Atividade-28-04-EmbarcaTech
 
 1. Para executar o código, basta manter a conexão dos resistores e dos terminais da BitDogLab enquanto se desejar realizar a medição. O valor do resistor desconhecido será mostrado no display da placa junto aos valores das faixas calculadas.
 
-2. Na matriz de LEDs será mostrado, por meio de código de cores, o valor as faixas do resistor conectado. Cada representação significa um número, havendo o caso especial do 0, que é representado por uma coluna de LEDs com 3 acesos e 2 apagados. Os demais buscam representar de forma mais aproximada o código real de cores de resistores. 
+2. Na matriz de LEDs será mostrado, por meio de código de cores, o valor das faixas do resistor conectado. Cada representação significa um número, havendo o caso especial do 0, que é representado por uma coluna de LEDs com 3 acesos e 2 apagados. Os demais buscam representar de forma mais aproximada o código real de cores de resistores. 
 
 #### Link do vídeo
 
